@@ -8,6 +8,11 @@ This project was mainly created as an exercise to learn PySide6 and Qt styleshee
 - Unit conversion
 - Currency conversion using an external API
 
+## Requirements
+
+- Python 3.10+
+- PySide6
+  
 ## Setup
 
 1. Clone this repository: git clone https://github.com/Viggovn/unit.currency_converter
